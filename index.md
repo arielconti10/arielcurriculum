@@ -4,7 +4,7 @@
 
 # ☎️ Contact information
 
-📧 [Email address](mailto:arielconti10@gmail.com)
+📧 arielconti10@gmail.com
 
 🔗 [LinkedIn](https://www.linkedin.com/in/arielconti10/)
 
@@ -16,7 +16,13 @@
 
 ## Full-Stack Engineer
 
-***OSBR**, São Paulo – 2019*
+***Shopper**, São Paulo Jan/Apr – 2020*
+
+Full-stack development for a startup for a retail delivery company, responsible for developing internal systems using ReactJS, NodeJS, MongoDB and Firebase
+
+## Full-Stack Engineer
+
+***OSBR**, São Paulo Feb/November – 2019*
 
 Full-stack development for a software consulting company using React, React Native, NodeJS, Express and MongoDB 
 
