@@ -15,7 +15,7 @@
 # **👩🏻‍💻** Work experience
 ## Front-End Engineer
 
-***Edoxa.gg**, São Paulo Jan/Apr – 2020*
+***Edoxa.gg**, São Paulo Aug 2020 / Feb – 2021*
 
 Front-end development for a startup of e-sports, responsible for developing new components to their platform, upgrading the new home-page of website thinking on the best user experience possible using ReactJS for the web app and NextJS for the static home page.
 
