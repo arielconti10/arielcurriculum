@@ -52,10 +52,12 @@ Front-end development of a SaaS platform using ReactJS and React-Native
 
 Full-stack development of a SVOD platform using Laravel on Back-end and VueJS on front-end from the early stage untill the point at the application reach over 20k+ users for a big company in Brazil
 
+## Full-Stack Engineer
 ***Vector ITC Group**, São Paulo – dez/2015 - jun/2016*
 
 Full-stack development of a logistics platform for a big player of this market with PHP, HTML, CSS and jQuery. Responsible for develop and maintain core functions of the system and improvements of usability on front-end
 
+## Full-Stack Engineer
 ***Vector ITC Group**, São Paulo – july/2014 - sep/2015*
 
 Development of institutional websites and e-commerces using Wordpress as platform using PHP, HTML, CSS and jQuery. Responsible for developing responsives themes and plugins for WordPress that solves clients problems. 
