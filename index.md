@@ -13,7 +13,10 @@
 ---
 
 # **👩🏻‍💻** Work experience
-## Front-End Engineer
+## Full-stack Engineer
+
+***Popstand**, São Paulo Feb 2021 / May 2021*
+Full-stack development for a laboratory tests platform, responsible for developing new features improving usability and developing new features using GraphQL, NodeJS, Postgres and React in a monorepo managed with Yarn Workspaces
 
 ***Edoxa.gg**, São Paulo Aug 2020 / Feb – 2021*
 
@@ -49,11 +52,27 @@ Front-end development of a SaaS platform using ReactJS and React-Native
 
 Full-stack development of a SVOD platform using Laravel on Back-end and VueJS on front-end from the early stage untill the point at the application reach over 20k+ users for a big company in Brazil
 
+***Vector ITC Group**, São Paulo – dez/2015 - jun/2016*
+
+Full-stack development of a logistics platform for a big player of this market with PHP, HTML, CSS and jQuery. Responsible for develop and maintain core functions of the system and improvements of usability on front-end
+
+***Vector ITC Group**, São Paulo – july/2014 - sep/2015*
+
+Development of institutional websites and e-commerces using Wordpress as platform using PHP, HTML, CSS and jQuery. Responsible for developing responsives themes and plugins for WordPress that solves clients problems. 
+
+
 ---
 
 # 🛠 Skills
 
 ## 💻 Technology
+### React ⭐️⭐️⭐️⭐️⭐️
+My main skill, working with React for the last 3 years. Focused in developing scalar and reusable components and improve my knowledge in Context API and React Native.
+
+### React Native ⭐️⭐️⭐️⭐️
+Working on it to develop mobile apps. Already performed some beta testing with TestFlight and Android Beta Channel releases. 
+Set up and maintained different databases: Firebase, MongoDB and Algolia. 
+Integrated multiple React Native modules such as react-navigation, react-native-firebase, react-native-geolocation and many more.
 
 ### Javascript ⭐️⭐️⭐️⭐️⭐️
 
